@@ -1,3 +1,5 @@
 # Discord Webhook Integration with UiPath
 
-<a href="https://github.com/JacquiM/Discord-Webhook-Integration-with-UiPath/blob/main/Discord%20Webhook%20Integration.png" target="_blank" align="center"></a>
+<p align="center">
+<img src="https://github.com/jacquim/YouTube-for-UiPath/blob/main/Youtube%20Playlists.png" title="Discord Webhook Integration Architecture">
+</p>
